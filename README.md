@@ -1,36 +1,30 @@
 # Hey, there 👋
 
 ## About Me
-
-👋 Hello, I'm Arthur. I'm a programming enthusiast passionate about computational logic and problem-solving. I'm constantly seeking new learning opportunities and I love challenges that help me grow as a developer.
+😄 Hello, I'm Arthur. I'm a programming enthusiast passionate about computational logic and problem-solving. I'm constantly seeking new learning opportunities and I love challenges that help me grow as a developer.
 
 📚 Currently, I'm focused on Python and C.
 
-💼 I'm actively looking for job opportunities.
+💼 Looking for job opportunities.
 
-## What You'll Find Here
+## How To Reach Me
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurdolival/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-dolival/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arthurdolival@gmail.com)
 
-🧩 In this space, I share projects and code related to computational logic, problem-solving, and more. Feel free to explore my repositories and leave comments or suggestions.
+## Abilities
+* ![C](https://img.shields.io/badge/C-1D3557?style=for-the-badge&logo=c)
+* ![Python](https://img.shields.io/badge/Python-1D3557?style=for-the-badge&logo=python)
+* ![MySQL](https://img.shields.io/badge/MySQL-1D3557?style=for-the-badge&logo=mysql&logoColor=white)
 
-🔥 I'm always open to collaborations and joint learning opportunities, so don't hesitate to get in touch.
+## Git Stats
 
-## How to Reach Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thurzinhu&theme=transparent&bg_color=1D3557&border_color=A8DADC&show_icons=true&icon_color=A8DADC&title_color=F1FAEE&text_color=F1FAEE)
 
-You can find me online in the following places:
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thurzinhu&layout=compact&theme=transparent&bg_color=1D3557&border_color=A8DADC&show_icons=true&icon_color=A8DADC&title_color=F1FAEE&text_color=F1FAEE)
 
-- [LinkedIn](https://www.linkedin.com/in/arthur-dolival/)
-- [Email](arthurdolival@gmail.com)
+## Featured Projects 
 
-## Featured Projects
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Thurzinhu&repo=Termo&theme=transparent&bg_color=1D3557&border_color=A8DADC&show_icons=true&icon_color=A8DADC&title_color=F1FAEE&text_color=F1FAEE)](https://github.com/Thurzinhu/Termo)
 
-Here are some of my featured projects:
-
-- [Termo](https://github.com/Thurzinhu/Termo): Implementation of the Termo game in C.
-- [Linear System Solver](https://github.com/Thurzinhu/Linear-System-Solver): Implementation of approximation methods for linear systems.
-
-## Thanks
-
-Thank you for visiting my GitHub profile. Feel free to explore, clone, and contribute to my projects. I hope you find something interesting, and who knows, maybe we can learn together!
-
-See you! 🚀
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Thurzinhu&repo=Linear-System-Solver&theme=transparent&bg_color=1D3557&border_color=A8DADC&show_icons=true&icon_color=A8DADC&title_color=F1FAEE&text_color=F1FAEE)](https://github.com/Thurzinhu/Linear-System-Solver)
