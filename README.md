@@ -8,8 +8,8 @@
 💼 Looking for job opportunities.
 
 ## How To Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-dolival/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arthurdolival@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1D3557?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-dolival/)
+[![Gmail](https://img.shields.io/badge/Gmail-1D3557?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arthurdolival@gmail.com)
 
 ## Abilities
 * ![C](https://img.shields.io/badge/C-1D3557?style=for-the-badge&logo=c)
